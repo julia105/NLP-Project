@@ -9,3 +9,6 @@ This project works out an app to detect real alarms within the stream of twitter
 5) Generate some grphs to show distribution of keywords related to alert state - Ready for merge
 6) Generate App - Ongoing
 
+Blabla
+
+
